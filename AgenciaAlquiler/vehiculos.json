@@ -1,0 +1,34 @@
+[
+  {
+    "type": "Furgoneta",
+    "capacidad": 8.0,
+    "matricula": {
+      "matricula": "2345CCC"
+    },
+    "grupo": "B"
+  },
+  {
+    "type": "Turismo",
+    "plazas": 2,
+    "matricula": {
+      "matricula": "9876DDD"
+    },
+    "grupo": "C"
+  },
+  {
+    "type": "Furgoneta",
+    "capacidad": 9.0,
+    "matricula": {
+      "matricula": "6666FFF"
+    },
+    "grupo": "C"
+  },
+  {
+    "type": "Turismo",
+    "plazas": 4,
+    "matricula": {
+      "matricula": "1234BBB"
+    },
+    "grupo": "A"
+  }
+]
